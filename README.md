@@ -1,5 +1,5 @@
-NetworkMeasurement
-==================
+Network Measurement
+===================
 
 Java Client-Server-Programm-Paar. 
  Der Server wartet auf ankommende UDP- oder TCP-Pakete und schickt Antworten 
